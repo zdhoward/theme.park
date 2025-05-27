@@ -359,6 +359,10 @@
       "addons": {},
       "base_css": "https://develop.theme-park.dev/css/base/deluge/deluge-base.css?sha=f0ce667bcec5477260a2e34e3a104b35"
     },
+    "docmost": {
+      "addons": {},
+      "base_css": "https://develop.theme-park.dev/css/base/docmost/docmost-base.css?sha=7623ca7339c76ffe559df440166b23a8"
+    },
     "dozzle": {
       "addons": {},
       "base_css": "https://develop.theme-park.dev/css/base/dozzle/dozzle-base.css?sha=fb0ebcef29779d9829b410903f25ed38"
